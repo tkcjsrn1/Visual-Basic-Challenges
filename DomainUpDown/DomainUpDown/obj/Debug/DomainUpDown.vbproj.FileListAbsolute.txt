@@ -1,0 +1,12 @@
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\bin\Debug\DomainUpDown.exe.config
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\bin\Debug\DomainUpDown.exe
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\bin\Debug\DomainUpDown.pdb
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\bin\Debug\DomainUpDown.xml
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.vbprojAssemblyReference.cache
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.frmDomainUpDown.resources
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.Resources.resources
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.vbproj.GenerateResource.cache
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.vbproj.CoreCompileInputs.cache
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.exe
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.xml
+C:\Users\정혁\source\repos\DomainUpDown\DomainUpDown\obj\Debug\DomainUpDown.pdb
