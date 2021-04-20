@@ -1,0 +1,12 @@
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.xml
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.vbprojAssemblyReference.cache
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.frmPicColor.resources
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Resources.resources
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.vbproj.GenerateResource.cache
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.vbproj.CoreCompileInputs.cache
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.xml
+C:\Users\정혁\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb
