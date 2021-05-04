@@ -1,0 +1,12 @@
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\bin\Debug\OperatorTest.exe.config
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\bin\Debug\OperatorTest.exe
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\bin\Debug\OperatorTest.pdb
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\bin\Debug\OperatorTest.xml
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.vbprojAssemblyReference.cache
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.frmOperator.resources
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.Resources.resources
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.vbproj.GenerateResource.cache
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.vbproj.CoreCompileInputs.cache
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.exe
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.xml
+C:\Users\정혁\source\repos\OperatorTest\OperatorTest\obj\Debug\OperatorTest.pdb
