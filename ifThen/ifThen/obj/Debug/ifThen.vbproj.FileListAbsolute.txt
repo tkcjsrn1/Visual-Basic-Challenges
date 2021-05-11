@@ -1,0 +1,12 @@
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.vbprojAssemblyReference.cache
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.frmIfThen.resources
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.Resources.resources
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.vbproj.GenerateResource.cache
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.vbproj.CoreCompileInputs.cache
+C:\Users\정혁\source\repos\ifThen\ifThen\bin\Debug\ifThen.exe.config
+C:\Users\정혁\source\repos\ifThen\ifThen\bin\Debug\ifThen.exe
+C:\Users\정혁\source\repos\ifThen\ifThen\bin\Debug\ifThen.pdb
+C:\Users\정혁\source\repos\ifThen\ifThen\bin\Debug\ifThen.xml
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.exe
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.xml
+C:\Users\정혁\source\repos\ifThen\ifThen\obj\Debug\ifThen.pdb
