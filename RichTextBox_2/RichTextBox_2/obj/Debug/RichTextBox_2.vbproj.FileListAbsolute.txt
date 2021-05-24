@@ -1,0 +1,12 @@
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\bin\Debug\RichTextBox_2.exe.config
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\bin\Debug\RichTextBox_2.exe
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\bin\Debug\RichTextBox_2.pdb
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\bin\Debug\RichTextBox_2.xml
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.vbprojAssemblyReference.cache
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.frmRichText.resources
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.Resources.resources
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.vbproj.GenerateResource.cache
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.vbproj.CoreCompileInputs.cache
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.exe
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.xml
+C:\Users\정혁\source\repos\RichTextBox_2\RichTextBox_2\obj\Debug\RichTextBox_2.pdb
